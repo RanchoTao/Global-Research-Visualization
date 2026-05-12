@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db
+global_research_radar.db
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
